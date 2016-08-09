@@ -1,1 +1,1 @@
-# Photo-Classification-with-tensorflow-Inception-v3
+# Photo-Classification-APP-with-tensorflow-Inception-v3
