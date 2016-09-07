@@ -3,7 +3,7 @@
 ===========================================================================
 v 0.5.1
 
-I add 3 more photo categories: cate, cat and dog into the model. So we have 6 categories now.
+I added 3 more classes, cate, cat and dog, into the classification model. So we have 6 phot categories now.
 
 ===========================================================================
 
