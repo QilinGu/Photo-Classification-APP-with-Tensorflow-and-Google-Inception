@@ -1,4 +1,13 @@
-# Photo-Classification-APP-with-tensorflow-Inception-v3
+# Photo-Classification-APP-with-Tensorflow-and-Google-Inception
+
+===========================================================================
+v 0.5.1
+
+I add 3 more photo categories: cate, cat and dog into the model. So we have 6 categories now.
+
+===========================================================================
+
+v 0.5.0
 
 1. This APP classifies an photo into one of three classes: People, Urban and Nature. Images beyond these catergories (like a photo of a kitten or a soccer game) will get poor prediction;
 2. The app was build with google bazel. I donnot know if it can be easily converted to eclipse project;
@@ -30,4 +39,4 @@
           
           randomly partition to val set and train set  by 1:3
   
-4. This is just a toy project to verify android tensorflow. For a usable APP, the photo catergories should be subdivided and completed and a lot more training images are needed.
+4. This is just a toy project to verify android tensorflow. For a more usable APP, the photo catergories should be carefully subdivided & completed and a lot more training images are needed.
